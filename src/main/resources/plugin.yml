@@ -1,0 +1,5 @@
+name: RLibs
+version: '${project.version}'
+main: be.raphtnt.rlibs.RLibs
+api-version: '1.20'
+authors: [raphtnt]
